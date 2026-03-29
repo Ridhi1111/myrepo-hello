@@ -1,4 +1,4 @@
 # myrepo-hello
 This is my git repository.
 <br>
-Author - Ridhi Jain
+Author - Ridhi Jain (Software Engineer)
